@@ -23,8 +23,8 @@
 ### Contact
 <div>
     
-    <a>href="https://www.linkedin.com/in/felipe-lima-1110a31b1/"<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-https://www.instagram.com/felype8491photography/
+    <a>href="https://www.instagram.com/felype8491photography/?hl=en"</a>
+    <a>href="https://www.linkedin.com/in/felipe-lima-1110a31b1/"</a>
 
 </div>
           
