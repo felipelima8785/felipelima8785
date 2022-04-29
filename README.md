@@ -1,9 +1,13 @@
 ### Hi! Welcome to my profile.
-    -  :walking: My name is Felipe Lima
+<div>
+    -   My name is Felipe Lima
     :computer: I'm a technology enthusiast
     I'm in career transition
     :books: Student in the Systems Analysis and Development course
     :camera: I have photography as a hobby
+    
+</div>
+
     
 ### I'm learn
 <div>
@@ -12,7 +16,9 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> </a>
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> </a>
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> </a>
-</div>          
+</div>
+
+
           
 ### Contact
 <div>
