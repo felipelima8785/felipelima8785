@@ -1,5 +1,5 @@
 ### Hi! Welcome to my profile.
-    :man: My name is Felipe Lima
+    -  :walking: My name is Felipe Lima
     :computer: I'm a technology enthusiast
     I'm in career transition
     :books: Student in the Systems Analysis and Development course
