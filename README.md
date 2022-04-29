@@ -1,10 +1,10 @@
 ### Hi! Welcome to my profile.
 <div>
-    -   My name is Felipe Lima
-    :computer: I'm a technology enthusiast
-    I'm in career transition
-    :books: Student in the Systems Analysis and Development course
-    :camera: I have photography as a hobby
+    <p>- My name is Felipe Lima</p>
+    <p>:computer: I'm a technology enthusiast</p>
+    <p>I'm in career transition</p>
+    <p>:books: Student in the Systems Analysis and Development course</p>
+    <p>:camera: I have photography as a hobby</p>
     
 </div>
 
