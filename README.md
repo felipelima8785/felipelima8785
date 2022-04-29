@@ -21,12 +21,12 @@
           
           
 ### Contact
-
-https://www.linkedin.com/in/felipe-lima-1110a31b1/
-
+<div>
+    
+    <a>href="https://www.linkedin.com/in/felipe-lima-1110a31b1/"<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 https://www.instagram.com/felype8491photography/
 
-
+</div>
           
           
           
