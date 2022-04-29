@@ -1,8 +1,8 @@
 ### Hi! Welcome to my profile.
 <div>
-    <p>- My name is Felipe Lima</p>
+    <p>:alien: My name is Felipe Lima</p>
     <p>:computer: I'm a technology enthusiast</p>
-    <p>I'm in career transition</p>
+    <p>:white_check_mark: I'm in career transition</p>
     <p>:books: Student in the Systems Analysis and Development course</p>
     <p>:camera: I have photography as a hobby</p>
     
