@@ -7,7 +7,7 @@
     <p>:camera: I have photography as a hobby</p>
     
 </div>
-
+<hr WIDTH=50%>
     
 ### I'm learn
 <div>
@@ -18,7 +18,7 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> </a>
 </div>
 
-
+<hr WIDTH=50%>
           
 ### Contact
 <div>
