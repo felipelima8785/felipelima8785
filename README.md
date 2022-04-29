@@ -7,7 +7,7 @@
     <p>:camera: I have photography as a hobby</p>
     
 </div>
-<hr WIDTH=50% SIZE=7>
+<hr WIDTH=50% SIZE=3>
     
 ### I'm learn
 <div>
