@@ -24,7 +24,8 @@
 <div>
 
 <a href="https://instagram.com/https://www.instagram.com/felype8491photography/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-lima-1110a31b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-lima-1110a31b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://img.shields.io/badge/-gmail-red"<LABEL>&message=<Gmail>&color=<red>></a>    
 </div>
           
           
