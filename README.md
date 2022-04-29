@@ -6,7 +6,7 @@
     :camera: I have photography as a hobby
     
 ### I'm learn
-
+<div>
          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
           
@@ -18,7 +18,7 @@
             
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
           
-          
+</div>          
           
 ### Contact
 <div>
@@ -26,6 +26,7 @@
 <a href="https://instagram.com/https://www.instagram.com/felype8491photography/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-lima-1110a31b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:felype.edu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
 </div>
           
           
