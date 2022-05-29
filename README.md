@@ -16,6 +16,7 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> </a>
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> </a>
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> </a>
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original-wordmark.svg" width="40" height="40"/> </a>
 </div>
 <hr WIDTH=60% SIZE="1">          
 <b>Contact</b>
