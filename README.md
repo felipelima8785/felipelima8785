@@ -7,7 +7,7 @@
     <p>:camera: I have photography as a hobby</p>
 </div>
 <hr WIDTH=60% height="1">    
-<b>I'm learn</b>
+<b>I'm learning</b>
 <br></br>
 
 <div>
